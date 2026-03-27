@@ -6,3 +6,4 @@ matplotlib==3.10.8
 mlflow==3.8.1
 seaborn==0.13.2
 nbstripout
+urlextract==1.9.0
